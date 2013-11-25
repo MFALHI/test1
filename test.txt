@@ -1,3 +1,5 @@
 Testing the VI keybindings in Orion. Ctrl+[ doesn't work :-(.
 
 Testing link creation from command line push.
+
+Testing link creation after password changed from command line push.
